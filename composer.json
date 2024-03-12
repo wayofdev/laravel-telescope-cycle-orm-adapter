@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^10.7.1",
+        "illuminate/contracts": "^11.0.0",
         "spatie/laravel-package-tools": "^1.14.2",
         "nunomaduro/collision": "^8.0.0"
     },
